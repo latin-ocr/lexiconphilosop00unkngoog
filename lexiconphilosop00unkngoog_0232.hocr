@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./lexiconphilosop00unkngoog/lexiconphilosop00unkngoog_0232.png"; bbox 0 0 4585 5992; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1338 672 3672 757">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1338 672 3672 757">
+     <span class='ocr_line' id='line_1_1' title="bbox 1338 672 3672 757; baseline 0.005 -16"><span class='ocrx_word' id='word_1_1' title='bbox 1338 690 1489 742; x_wconf 80' lang='lat'><strong>220</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1741 674 2222 755; x_wconf 88' lang='lat' dir='ltr'>LEXICON</span> <span class='ocrx_word' id='word_1_3' title='bbox 2270 672 3152 757; x_wconf 85' lang='lat' dir='ltr'><strong>PHILOSOPHICUM.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 3297 674 3458 752; x_wconf 84' lang='lat' dir='ltr'><strong>DA.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 3505 674 3672 754; x_wconf 88' lang='lat' dir='ltr'><strong>DE.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 4496 4051 4504 4571">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 4496 4051 4504 4571">
+     <span class='ocr_line' id='line_1_2' title="bbox 4496 4051 4504 4571; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 4496 4051 4504 4571; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./lexiconphilosop00unkngoog/lexiconphilosop00unkngoog_0010.png"; bbox 0 0 4585 5992; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 2076 3961 2093 4018">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 2076 3961 2093 4018">
+     <span class='ocr_line' id='line_1_1' title="bbox 2076 3961 2093 4018; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 2076 3961 2093 4018; x_wconf 51' lang='lat' dir='ltr'>qna</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 2093 4015 2205 4050">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 2093 4015 2205 4050">
+     <span class='ocr_line' id='line_1_2' title="bbox 2093 4015 2205 4050; baseline 0.018 -2"><span class='ocrx_word' id='word_1_2' title='bbox 2093 4015 2205 4050; x_wconf 52' lang='grc' dir='ltr'>ἰο-ί·</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 2707 4927 2828 4958">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 2707 4927 2828 4958">
+     <span class='ocr_line' id='line_1_3' title="bbox 2707 4927 2828 4958; baseline -0.017 0"><span class='ocrx_word' id='word_1_3' title='bbox 2707 4927 2774 4958; x_wconf 57' lang='grc'>09</span> <span class='ocrx_word' id='word_1_4' title='bbox 2795 4931 2828 4956; x_wconf 53' lang='grc' dir='ltr'>’ὃ</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
